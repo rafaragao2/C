@@ -1,2 +1,2 @@
-# Códigos em C
-Códigos acadêmicos feitos em C de ordenação e árvore AVL
+# C Codes
+C academic codes during my degree
